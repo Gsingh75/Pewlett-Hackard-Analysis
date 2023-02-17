@@ -10,6 +10,7 @@ We tend to help Bobby’s manager in order to prepare for the upcoming “silver
 ## Results:
 Using the retirement_titles.csv, there are 133776 rows that contain all the titles of employees, born between 1952 and 1955. There are some duplicate entries for some employees, because they have switched titles over the years.
 ![Screenshot (17)](https://user-images.githubusercontent.com/73635290/219366908-0a7aa984-0d8f-48ee-855e-127d31fb66a9.png)
+
 There are 72,458 unique employees, using the unique_titles.csv that have rearched the retirment age and who were born between '1952-01-01' AND '1955-12-31'. 
 ![Screenshot (18)](https://user-images.githubusercontent.com/73635290/219575931-838ff54b-608a-4dbd-a867-6d83b92baff5.png)
 
