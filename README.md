@@ -15,3 +15,4 @@ There are 72,458 unique employees, using the unique_titles.csv that have rearche
 ![Screenshot (18)](https://user-images.githubusercontent.com/73635290/219575931-838ff54b-608a-4dbd-a867-6d83b92baff5.png)
 
 Using the retiring_titles.csv, it is observed that the following are the titles of employees that are retiring with the number of employees under each, arranged in a descending order.
+![Screenshot (19)](https://user-images.githubusercontent.com/73635290/219578544-19f47106-7a99-4179-a671-3e8f4d7c5a12.png)
