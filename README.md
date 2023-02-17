@@ -18,3 +18,4 @@ Using the retiring_titles.csv, it is observed that the following are the titles 
 ![Screenshot (19)](https://user-images.githubusercontent.com/73635290/219578544-19f47106-7a99-4179-a671-3e8f4d7c5a12.png)
 
 Using the mentorship_eligibilty.csv, it is observed that there are 1,549 current employees who were born in 1965 and are also eligibile for the Mentorship Program.
+![Screenshot (20)](https://user-images.githubusercontent.com/73635290/219579575-63fea769-0a3e-4d43-a31d-c0c82c502462.png)
